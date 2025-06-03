@@ -20,8 +20,8 @@
 ### For Java Edition
 
 1. Download the latest version of the resource pack from:
-   - [CurseForge](https://www.curseforge.com/minecraft/texture-packs/demons-nation-of-realism-1024x-pom-pbr-for-free)
-   - [Planet Minecraft](https://www.planetminecraft.com/texture-pack/demon-s-nation-of-realism-1024x-photorealistic-minecraft-javaedition-rp-pbr-pom-supported/)
+   - [CurseForge](https://www.curseforge.com/minecraft/texture-packs/demons-nation-of-realism-1024x-pom-pbr-for-free) (1024x)
+   - [Planet Minecraft](https://www.planetminecraft.com/texture-pack/demon-s-nation-of-realism-512x-photorealistic-minecraft-javaedition-rp-pbr-pom-supported/)
 
 2. Move the `.zip` file into your Minecraft `resourcepacks` folder:
 
